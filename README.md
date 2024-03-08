@@ -28,7 +28,7 @@ A Node.js command-line application that takes in user input to generate a logo a
   N/A
 
   ## Testing
-  N/A
+  Each class is tested using Jest. From the terminal, invoke the test by inputting 'npm test'. Each shape class is tested for a render() method that returns a string for the corresponding SVG file with the given shape color. 
 
   ## Credits
   Used Xpert Learning Assistant, used module 10 activities and mini project, used resource links included in module 10 challenge instructions, booked a tutor, and used developer.mozilla.org (MDN) as resources to help create code. 
